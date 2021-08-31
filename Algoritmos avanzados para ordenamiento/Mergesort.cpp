@@ -17,8 +17,8 @@ Es O(n log n).
 #include <conio.h>
 using namespace std;
 int a[50];
+void merge_sort(int, int);
 void merge(int, int, int);
-
 void merge_sort(int izquierda, int derecha)
 {
     int medio;
@@ -76,10 +76,9 @@ main()
 {
     int num, i;
     cout << "  *******************************" << endl;
-    cout << "   PROGRAMA MERGE SORT         " << endl;
-    cout << "  ******************************  " << endl;
-    cout << endl
-         << endl;
+    cout << "        PROGRAMA MERGE SORT      " << endl;
+    cout << "  *******************************" << endl;
+    cout << endl << endl;
     cout << "INGRESE LA CANTIDAD DE ELEMENTOS" << endl;
     cin >> num;
     cout << endl;
@@ -89,9 +88,7 @@ main()
         cin >> a[i];
     }
     merge_sort(1, num);
-    cout << endl;
-    cout << endl
-         << endl;
+    cout << endl << endl << endl;
     cout << "EL NUEVO ORDEN DE ELEMENTOS ES:" << endl;
     for (i = 1; i <= num; i++)
     {
