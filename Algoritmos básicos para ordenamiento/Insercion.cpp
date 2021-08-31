@@ -2,7 +2,7 @@
 using namespace std;
 main()
 {
-    int numeros[] = {2, 1, 8, 3, 4, 5, 6};
+    int numeros[] = {2, 1, 8, 3, 4, 5, 6, 24, 31, 32, 33, 245};
     int i, pos, aux;
     int limit = (sizeof(numeros) / sizeof(numeros[0]));
 
