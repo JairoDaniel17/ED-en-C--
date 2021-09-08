@@ -2,7 +2,7 @@
 using namespace std;
 main()
 {
-    int numero, *dir_numero;
+    int numero, *dir_numero;//El valor o el contenido de la direccion de memoria 
     cout << "Digite un numero: ";
     cin >> numero;
     dir_numero = &numero; //Guardando la posicion de memoria
