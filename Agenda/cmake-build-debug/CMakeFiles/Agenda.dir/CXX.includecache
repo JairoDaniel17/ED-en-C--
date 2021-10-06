@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jairo2021/Desktop/Agenda/main.cpp
+procesos-internos/agenda.h
+C:/Users/Jairo2021/Desktop/Agenda/procesos-internos/agenda.h
+
+C:/Users/Jairo2021/Desktop/Agenda/procesos-internos/agenda.h
+iostream
+-
+

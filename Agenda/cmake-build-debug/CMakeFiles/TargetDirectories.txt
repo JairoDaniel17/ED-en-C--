@@ -1,0 +1,3 @@
+C:/Users/Jairo2021/Desktop/Agenda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Jairo2021/Desktop/Agenda/cmake-build-debug/CMakeFiles/Agenda.dir
+C:/Users/Jairo2021/Desktop/Agenda/cmake-build-debug/CMakeFiles/edit_cache.dir

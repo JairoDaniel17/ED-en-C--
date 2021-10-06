@@ -31,3 +31,4 @@ bool palindromo(string palabra)
     }
     return false;
 }
+
