@@ -10,7 +10,7 @@ o (n log n)
 Aclaración:
 •  No es estable.
 •  Método complejo.
-*/
+*/  
 #include <windows.h>
 #include <iostream>
 #define MAX 100
